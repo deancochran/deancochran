@@ -1,5 +1,7 @@
 # Howdy y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Here's my page: https://deancochran.github.io/deancochran/
+
 # About
 
 During my undergraduate years at the quaint liberal arts university **Centre College (Danville, KY, USA)**, my passion has been devoted many different fields of study and practices. As I am currently seeking a career utilizing my skills and experiences with coding **Data Structures, Statistics, Machine Learning Algorithms, Artificial Intelligence, and visualizations to analyze data.** My passion has led me to **Pompeu Fabra University (Barcelona, Spain),** where I will be obtaining my Masters of Music and Sound Commputing.
