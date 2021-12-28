@@ -1,0 +1,201 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dean Cochran Portfolio</title>
+        <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+        <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+
+        <link rel="preconnect" href="https://fonts.googleapis.com"> 
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+
+        <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;900&display=swap" rel="stylesheet">
+
+
+
+        <link rel="stylesheet" href="./css/file.css">
+
+
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <img src="./images/logo.png" alt="logo img">
+            </div>
+
+            <button class="nav-toggle" label="toggle navigation">
+                <span class="hamburger"></span>
+            </button>
+
+            <nav class="nav">
+                <ul class="nav__list">
+                    <li class="nav__item"><a href="#home" class="nav__link">Home</a></li>
+                    <li class="nav__item"><a href="#services" class="nav__link">My Services</a></li>
+                    <li class="nav__item"><a href="#about" class="nav__link">About Me</a></li>
+                    <li class="nav__item"><a href="#work" class="nav__link">My Work</a></li>
+                </ul>
+            </nav>
+        </header>
+        
+        <!--Introduction-->
+        <section class="intro" id="home">
+            <h1 class="section__title section__title--intro">
+                Hi, I am <strong>Dean Cochran</strong>
+            </h1>
+            <p class="section__subtitle section__subtitle--intro">A "developing" student</p>
+            <img class="intro__img" src="./images/headshot.JPG" alt="picture of myself">
+        </section>
+
+        <!--My Services-->
+        <section class="my-services" id="services">
+            <h2 class="section__title section__title--services">What I do</h2>
+            <div class="services">
+                <!-- Service-->
+                <div class="service">
+                    <h3>Data Science and Machine Learning</h3>
+                    <p>
+                        Utilizing the skills and experience from coding data structures, statistics, machine learning algorithms, 
+                        predictive models and visualizations I can effectively preform scientific tests to achieve a solution to any problem.
+                    </p>
+                </div>
+                <!-- Service-->
+                <div class="service">
+                    <h3>AI and Software Development</h3>
+                    <p>
+                        Solving problems using Artifical Intelligence. I write and program software, create applications for mobile devices, 
+                        and develop websites in order to validate mathematical models capable of interaction between people and other computers.
+                    </p>
+                </div>
+                <!-- Service-->
+                <div class="service">
+                    <h3>Digital Signal Processing</h3>
+                    <p>
+                        Taking real-world signals like voice, audio, video, temperature, pressure, or position that have been digitized. 
+                        I mathematically manipulate them using my knowledge from other feilds of science.
+                    </p>
+                </div>
+            </div>
+            <a href="#work" class="btn">See My Work</a>
+        </section>
+
+        <!--About Me-->
+        <section class="about-me" id="about">
+            <h2 class="section__title section__title--about">Who I am</h2>
+            <p class="section__subtitle section__subtitle--about">An Ambitious Creator</p>
+            <div class="about-me__body">
+                <p>
+                     
+                    During my undergraduate years at the quaint liberal arts university <strong>Centre College</strong> (Danville, KY, USA), my passion has been devoted many different fields of study and practices. 
+                    As I am currently seeking a career utilizing my skills and experiences with coding data structures, statistics, machine learning algorithms, predictive models and visualizations. 
+                    My passion has led me to <strong>Pompeu Fabra University</strong> (Barcelona, Spain), where I will be obtaining my <strong>Masters of Music and Sound Commputing.</strong>
+                </p>
+                <p>
+                    Now redirecting my focus towards digital signal processing and technologies. 
+                    I am passionate about growing my skill set with practical real-world applications using my knowledge of data science and programming languages 
+                    to challenge the linear approach of issues that could be better addressed with Machine Learning and AI. 
+                </p>
+            </div>
+            <img src="./images/headshot2.JPG" alt="another picture of Dean" class="about-me__img">
+        </section>
+
+        <!--My Work-->
+        <section class="my-work" id="work">
+            <h2 class="section__title section__title--work">My work</h2>
+            <p class="section__subtitle section__subtitle--work">A selection of my range of work</p>
+            <div class="portfolio">
+                <!--Portfolio Item 1-->
+                <a class="portfolio__item" href="./html/song-genre-project.html"> 
+                    <img src="./images/song-genre-prediction/header.jpg" alt="portfolio__item--1" class="portfolio__img">
+                    
+                    <div class="portfolio__img--div">
+                        <h3> Machine Learning Song Genre Classification</h3>
+                    </div>
+                </a>
+                <!--Portfolio Item 2-->
+                <a class="portfolio__item" href="./html/dsc500.html"> 
+                    <img src="./images/dsc500/dsc500header.png" alt="portfolio__item--2" class="portfolio__img">
+                    <div class="portfolio__img--div">
+                        <h3> Digital Signal Processing ML Audio Classification</h3>
+                    </div>
+                    
+                </a>
+                <!-- Portfolio Item 3-->
+                <a class="portfolio__item" href="./html/possion-process.html"> 
+                    <img src="./images/poisson process/Poisson_ProccessHeader.png" alt="portfolio__item--3" class="portfolio__img">
+                    
+
+                    <div class="portfolio__img--div">
+                        <h3> LaTex Report on the Poisson Process </h3>
+                    </div>
+                </a>
+
+                <!-- Portfolio Item 4--> 
+
+                <a class="portfolio__item" href="./html/rubix-cube-solver.html"> 
+                    <img src="./images/rubix-cube-solver/rubix-cubeHeader.jpg" alt="portfolio__item--4" class="portfolio__img">
+                    
+                    <div class="portfolio__img--div">
+                        <h3> AI Rubik's Cube Solver </h3>
+                    </div>
+                </a>
+
+                                <!-- Portfolio Item 5--> 
+
+                <!--
+                    
+
+                <a class="portfolio__item" href="portfolio-item.html"> 
+                    <img src="./images/Alaska_photos_2021_Rob/DSC00619.JPG" alt="portfolio__item--5" class="portfolio__img">
+                </a>
+
+                don't forget to update
+                -->
+
+
+            </div>
+        </section>
+
+        <!--Footer-->
+        <footer class="footer">
+            <!--Replace with your own email address-->
+            <a href="mailto:charles.dean.cochran@outlook.com" target="_blank" class="footer__link">charles.dean.cochran@outlook.com</a>
+            <ul class="social-list">
+                <li class="social-list__item"> 
+                    <a href="https://github.com/deancochran" target="_blank" class="social-list__link">
+                        <i class="fab fa-github-alt"></i>
+                    </a> 
+                </li>
+                <li class="social-list__item"> 
+                    <a href="https://www.linkedin.com/in/dean-cochran" target="_blank" class="social-list__link">
+                        <i class="fab fa-linkedin"></i>
+                    </a> 
+                </li>
+                <li class="social-list__item"> 
+                    <a href="https://www.instagram.com/deancochran/" target="_blank" class="social-list__link">
+                        <i class="fab fa-instagram"></i>
+                    </a> 
+                </li>
+                <li class="social-list__item"> 
+                    <a href="https://www.strava.com/athletes/63905338" target="_blank" class="social-list__link">
+                        <i class="fab fa-strava"></i>
+                    </a> 
+                </li>
+                <li class="social-list__item"> 
+                    <a href="https://soundcloud.com/dynamic-dean" target="_blank" class="social-list__link">
+                        <i class="fab fa-soundcloud"></i>
+                    </a> 
+                </li>
+
+                
+            </ul>
+        </footer>
+
+        <script src="./js/index.js"></script>
+    </body>
+</html>
