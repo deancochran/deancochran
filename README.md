@@ -31,7 +31,7 @@ Other                              55 hrs 27 mins  ▓░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## [Latest Blog Posts](https://dean-cochran.com/blog.):
+## [Latest Blog Posts](https://deancochran.github.io/):
 
 <!-- DEANS_LIST:START -->
 - [Designing Machine Learning Systems by Chip Huyen &lpar;A Book Review&rpar;](undefined/blog/designing-ml-systems-book-review)
