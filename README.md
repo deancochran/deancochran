@@ -34,5 +34,8 @@ Other                              55 hrs 27 mins  ▓░░░░░░░░�
 ## [Latest Blog Posts](https://deancochran.github.io/blog):
 
 <!-- DEANS_LIST:START -->
-
+- [Designing Machine Learning Systems by Chip Huyen &lpar;A Book Review&rpar;](https://deancochran.github.io/blog/designing-ml-systems-book-review)
+- [Svelte 5.0 released at Svelte Fall 2024 Summit](https://deancochran.github.io/blog/svelte-summit-fall-2024)
+- [Machine Learning on the Edge with SvelteKit and TensorFlowJS](https://deancochran.github.io/blog/machine-learning-on-the-edge-building-ml-powered-apps-with-sveltekit-and-tensorflowjs)
+- [Building my Blog with Sveltekit and Terraform](https://deancochran.github.io/blog/building-my-blog)
 <!-- DEANS_LIST:END -->
