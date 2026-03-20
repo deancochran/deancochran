@@ -16,13 +16,13 @@ page or found it helpful, consider donating to support future content <a
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,764 hrs
+Total Time: 1,765 hrs 40 mins
 
-Python                             533 hrs 13 mins       ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-Svelte                             398 hrs 12 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
-Markdown                           287 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-TypeScript                         281 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-Other                              60 hrs 16 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Python                             533 hrs 13 mins       ███████▒░░░░░░░░░░░░░░░░░   29.20 %
+Svelte                             398 hrs 12 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+Markdown                           288 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+TypeScript                         281 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Other                              60 hrs 18 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
