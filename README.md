@@ -30,9 +30,9 @@ Other                              75 hrs 22 mins        █░░░░░░�
 ## [Latest Blog Posts](https://deancochran.github.io/blog):
 
 <!-- DEANS_LIST:START -->
+- [From Bluetooth Specification to TypeScript: Building an FTMS Protocol Codec](https://deancochran.github.io/blog/building-an-ftms-protocol-codec-from-the-bluetooth-specification)
 - [Building a Future Proof Development Environment with dotfiles](https://deancochran.github.io/blog/dotfiles)
 - [Designing Machine Learning Systems by Chip Huyen &lpar;A Book Review&rpar;](https://deancochran.github.io/blog/designing-ml-systems-book-review)
 - [Svelte 5.0 released at Svelte Fall 2024 Summit](https://deancochran.github.io/blog/svelte-summit-fall-2024)
 - [Machine Learning on the Edge with SvelteKit and TensorFlowJS](https://deancochran.github.io/blog/machine-learning-on-the-edge-building-ml-powered-apps-with-sveltekit-and-tensorflowjs)
-- [Building my Blog with Sveltekit and Terraform](https://deancochran.github.io/blog/building-my-blog)
 <!-- DEANS_LIST:END -->
