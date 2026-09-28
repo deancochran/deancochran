@@ -31,7 +31,7 @@ Other                              94 hrs                █░░░░░░�
 
 <!-- DEANS_LIST:START -->
 - [Your AI Draft Is Not My Work to Finish](https://deancochran.github.io/blog/your-ai-draft-is-not-my-work-to-finish)
-- [My FTMS Package](https://deancochran.github.io/blog/building-an-ftms-protocol-codec-from-the-bluetooth-specification)
+- [My FTMS Package](https://deancochran.github.io/blog/my-ftms-package)
 - [Building a Future Proof Development Environment with dotfiles](https://deancochran.github.io/blog/dotfiles)
 - [Designing Machine Learning Systems by Chip Huyen &lpar;A Book Review&rpar;](https://deancochran.github.io/blog/designing-ml-systems-book-review)
 - [Svelte 5.0 released at Svelte Fall 2024 Summit](https://deancochran.github.io/blog/svelte-summit-fall-2024)
